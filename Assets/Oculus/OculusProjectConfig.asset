@@ -16,7 +16,6 @@ MonoBehaviour:
   allowOptional3DofHeadTracking: 0
   handTrackingSupport: 1
   handTrackingFrequency: 0
-  handTrackingVersion: 0
   anchorSupport: 1
   sharedAnchorSupport: 0
   renderModelSupport: 0
@@ -37,12 +36,13 @@ MonoBehaviour:
   skipUnneededShaders: 0
   enableIL2CPPLTO: 0
   removeGradleManifest: 1
+  metaXrFeaturePromptDeclined: 0
   focusAware: 1
   requiresSystemKeyboard: 0
-  experimentalFeaturesEnabled: 0
+  experimentalFeaturesEnabled: 1
   insightPassthroughEnabled: 0
-  _insightPassthroughSupport: 1
-  isPassthroughCameraAccessEnabled: 0
+  _insightPassthroughSupport: 2
+  isPassthroughCameraAccessEnabled: 1
   _processorFavor: 0
   systemSplashScreen: {fileID: 0}
   systemSplashScreenType: 0
